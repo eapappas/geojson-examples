@@ -80,21 +80,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9315941113,
-          40.76382983869999
-        ]
-      },
-      "type": "Feature",
-      "id": "4005560103",
-      "properties": {
-        "organizing_sites": true,
-        "area": 0.004
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.8885186355,
           40.7556657795
         ]
@@ -2720,36 +2705,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9003886475,
-          40.7827788532
-        ]
-      },
-      "type": "Feature",
-      "id": "4008140237",
-      "properties": {
-        "vacant_sites": true,
-        "area": 1.24
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9099110852,
-          40.7798635676
-        ]
-      },
-      "type": "Feature",
-      "id": "4008590010",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.021
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.8864779691,
           40.7634243062
         ]
@@ -3050,8 +3005,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8904662285,
-          40.7089846624
+          -73.89129638671875,
+          40.687407052121316
         ]
       },
       "type": "Feature",
@@ -3500,8 +3455,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8104591798,
-          40.7849826143
+          -73.795166015625,
+          40.77534183237267
         ]
       },
       "type": "Feature",
@@ -3605,8 +3560,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.80719388,
-          40.6899597926
+          -73.81439208984375,
+          40.714476284709335
         ]
       },
       "type": "Feature",
@@ -7454,6 +7409,45 @@
       "properties": {
         "public_accessed_sites": true,
         "area": 0.098
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.96202087402344,
+            40.694175391548754
+          ],
+          [
+            -73.88923645019531,
+            40.66188943992171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94279479980469,
+          40.6676187336049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91944885253906,
+          40.65147128144057
+        ]
       }
     }
   ]
